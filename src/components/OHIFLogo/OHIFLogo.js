@@ -18,7 +18,7 @@ function OHIFLogo() {
       <div className="header-logo-text">Open Health Imaging Foundation</div>
       */}
 
-      <img name="doai-logo" className="header-logo-image" src={logo} />
+      <img name="doai-logo" className="header-logo-image" src={doai_logo} />
       <div className="header-logo-text">DoAI Medical Platform</div>
     </a>
   );
