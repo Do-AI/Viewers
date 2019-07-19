@@ -27,7 +27,7 @@
   "Length": "Length",
   "Angle": "Angle",
   "Bidirectional": "Bidirectional",
-  "Freehand": "Freehand",
+  "FreehandMouse": "FreehandMouse",
   "Elliptical": "Elliptical",
   "Circle": "Circle",
   "Rectangle": "Rectangle",

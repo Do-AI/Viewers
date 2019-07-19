@@ -27,7 +27,7 @@
   "Length": "Medición",
   "Angle": "Ángulo",
   "Bidirectional": "Bidirectional",
-  "Freehand": "Freehand",
+  "FreehandMouse": "FreehandMouse",
   "Elliptical": "Elliptical",
   "Circle": "Circle",
   "Reset": "$t(Common:Reset)",
